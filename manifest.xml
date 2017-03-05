@@ -3,7 +3,7 @@ applications:
 - path: .
   memory: 256
   instances: 2
-  domain: au-syd.mybluemix.net
+  domain: mybluemix.net
   name: askmeanything
   host: askmeanything
   disk_quota: 1024M
